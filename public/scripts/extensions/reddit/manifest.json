@@ -1,0 +1,13 @@
+{
+    "display_name": "Reddit",
+    "loading_order": 9,
+    "requires": [
+        "caption"
+    ],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Synexo",
+    "version": "0.0.1",
+    "homePage": "https://github.com/Synexo/SillyTavern"
+}
